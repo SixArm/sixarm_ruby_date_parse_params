@@ -1,10 +1,8 @@
+= SixArm.com » Ruby » Date Parse Params
 
-= SixArm Ruby Gem: Date Parse Params
-
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
+Author:: Joel Parker Henderson, joel@joelparkerhenderson.com
+Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
+License:: See LICENSE.txt file
  
 Date parsing for typical Rails web application form params.
 
