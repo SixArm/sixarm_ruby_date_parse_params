@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> Date Parse Params
 
-* Docs: <http://sixarm.com/sixarm_ruby_date_parse_params/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_date_parse_params/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_date_parse_params>
 * Repo: <http://github.com/sixarm/sixarm_ruby_date_parse_params>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
