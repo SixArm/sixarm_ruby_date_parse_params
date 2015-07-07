@@ -41,9 +41,3 @@ To enable high security for all our gems:
 To install with high security:
 
     gem install sixarm_ruby_date_parse_params --trust-policy HighSecurity
-
-
-## Changes
-
-* 2012-03-24 1.0.4 Upgrade for Ruby 1.9.3, minitest/spec, and improved docs.
-* 2011-10-08 1.0.2 Updates for gem publishing
